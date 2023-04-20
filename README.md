@@ -7,7 +7,7 @@ Data Scientist
 Biomedical professional and Data Science and Analytics student.
 
 * 🌍  I'm based in São Paulo, Brasil
-* 🖥️  See my portfolio at [Portfolio](http://www.kaggle.com/sandralincosta09)
+* 🖥️  You can check my kaggle profile at [Kaggle](http://www.kaggle.com/sandralincosta09)
 * ✉️  You can contact me at [www.linkedin.com/in/sandra-lin-costa/](mailto:www.linkedin.com/in/sandra-lin-costa/)
 
 ### Skills
