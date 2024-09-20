@@ -1,14 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sandra Lin
 ==================================================================================================================================
-Aqui está uma versão da apresentação adaptada para um perfil no GitHub:
-
 ---
 
 * 🌍  I'm based in São Paulo, Brasil
 * 🖥️  You can check my kaggle profile at [Kaggle](http://www.kaggle.com/sandralincosta09)
 * ✉️  You can contact me at [www.linkedin.com/in/sandra-lin-costa/](mailto:www.linkedin.com/in/sandra-lin-costa/)
-
-  Here is the presentation translated and adapted for a GitHub portfolio:
 
 ---
 
