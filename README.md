@@ -1,14 +1,44 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sandra Lin
 ==================================================================================================================================
+Aqui está uma versão da apresentação adaptada para um perfil no GitHub:
 
-Data Scientist
---------------
-
-Biomedical professional and Data Science and Analytics student.
+---
 
 * 🌍  I'm based in São Paulo, Brasil
 * 🖥️  You can check my kaggle profile at [Kaggle](http://www.kaggle.com/sandralincosta09)
 * ✉️  You can contact me at [www.linkedin.com/in/sandra-lin-costa/](mailto:www.linkedin.com/in/sandra-lin-costa/)
+
+  Here is the presentation translated and adapted for a GitHub portfolio:
+
+---
+
+# About Me
+
+Data Science professional with experience at **BRF** since 2023, working as a **Data Analyst**. My main responsibilities include:
+
+- Developing interactive reports in **Power BI** for both web and mobile platforms.
+- Automating processes and improving workflows.
+- Managing data projects.
+- Acting as a liaison between business and technology teams, ensuring effective communication and alignment.
+
+## Skills
+
+- **Data Analysis:** Creating insights from large datasets.
+- **Machine Learning & Artificial Intelligence:** Developing predictive models and advanced analytics.
+- **Programming:** Python (data analysis, automation, application development).
+- **Databases:** SQL for querying and data manipulation.
+- **Data Visualization:** Power BI and Streamlit for creating dashboards and interactive applications.
+- **Big Data:** Experience with Databricks and Azure for handling and analyzing large datasets.
+
+## Personal Traits
+
+I am a **proactive, creative, and collaborative** professional, with the ability to work in teams and solve complex problems. I am always looking for new opportunities to apply my skills and contribute to innovation and success in the projects I am involved in.
+
+## Objective
+
+To leverage my Data Science expertise to generate value, optimize processes, and drive innovation within organizations.
+
+---
 
 ### Skills
 
